@@ -1,0 +1,1520 @@
+session,rat,trial,outcome,type,long_prob,hold,timing_mismatch,step,rule
+20260510_r0000135_wt_1625,135,0,early,long,0.5,0.36,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,1,early,long,0.5,0.39,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,2,touch,short,0.5,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,3,touch,short,0.5,0.08,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,4,correct,short,0.5,0.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,5,touch,short,0.5,0.07,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,6,early,short,0.5,0.16,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,7,early,short,0.5,0.21,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,8,touch,short,0.5,0.04,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,9,touch,short,0.5,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,10,touch,short,0.5,0.09,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,11,early,short,0.5,0.22,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,12,early,long,0.5,0.45,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,13,early,long,0.5,0.17,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,14,early,long,0.5,0.31,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,15,correct,long,0.5,1.65,True,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,16,touch,long,0.5,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,142,early,long,0.75,0.54,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,35,late,short,0.5,1.07,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,36,correct,long,0.5,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,37,correct,short,0.5,0.79,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,38,correct,long,0.5,1.53,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,39,correct,long,0.5,1.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,40,correct,long,0.5,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_0909,136,41,correct,long,0.5,1.12,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,0,correct,long,0.5,1.53,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,1,late,long,0.5,2.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,2,late,long,0.5,1.57,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,3,late,short,0.5,3.08,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,4,touch,short,0.5,0.07,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,5,correct,short,0.5,0.64,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,6,late,short,0.5,4.65,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,7,early,long,0.5,0.21,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,8,correct,short,0.5,0.66,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,9,early,short,0.5,0.15,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,10,touch,short,0.5,0.05,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,11,correct,short,0.5,0.65,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,12,early,long,0.5,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,13,correct,short,0.5,0.73,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,14,late,short,0.5,1.39,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,15,correct,short,0.5,0.71,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,16,correct,long,0.5,1.46,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,17,touch,short,0.5,0.04,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,18,late,short,0.5,1.17,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,19,correct,long,0.5,1.41,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,20,correct,long,0.5,1.36,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,21,late,short,0.5,0.92,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,22,early,long,0.5,0.22,False,R1,no press time at all (no TTL and no press_np_s)
+20260511_r0000136_wt_1832,136,120,touch,long,0.75,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,0,touch,long,0.5,0.04,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,34,correct,long,0.5,1.31,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,35,correct,short,0.5,0.71,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,36,correct,short,0.5,0.69,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,37,correct,short,0.5,1.03,True,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,38,correct,short,0.5,0.62,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,39,correct,short,0.5,0.63,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,40,early,long,0.5,0.97,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,41,correct,long,0.5,1.14,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,42,correct,long,0.5,1.28,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,43,late,short,0.5,1.57,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,44,correct,short,0.5,0.7,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,45,early,short,0.5,0.21,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,46,correct,long,0.5,1.47,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,47,touch,long,0.75,0.09,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,48,early,long,0.75,0.96,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,49,correct,long,0.75,1.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,50,early,long,0.75,0.13,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,51,correct,long,0.75,1.18,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,52,correct,long,0.75,1.28,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,53,correct,long,0.75,1.45,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,54,correct,long,0.75,1.3,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,55,correct,short,0.75,0.6,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,56,correct,long,0.75,1.21,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,57,correct,short,0.75,0.82,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,58,early,long,0.75,0.83,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,59,correct,long,0.75,1.19,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,60,correct,short,0.75,0.69,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,61,early,long,0.5,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,62,early,long,0.5,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,63,touch,long,0.5,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,64,early,long,0.5,0.79,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,65,correct,long,0.5,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,66,correct,long,0.5,1.29,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,67,correct,short,0.5,0.76,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,68,correct,short,0.5,0.9,True,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,69,touch,long,0.5,0.07,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,70,early,long,0.5,0.94,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,71,correct,short,0.5,0.66,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,72,correct,short,0.5,0.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,73,correct,long,0.5,1.27,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,74,correct,short,0.5,0.92,True,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,75,late,short,0.5,1.99,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,76,late,short,0.5,1.78,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,77,correct,short,0.5,0.86,True,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,78,correct,long,0.5,1.26,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,79,early,long,0.75,0.93,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,80,correct,long,0.75,1.29,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,81,correct,short,0.75,0.9,True,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,82,correct,long,0.75,1.27,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,83,late,short,0.75,1.24,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,84,correct,long,0.75,1.35,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,85,correct,long,0.75,1.3,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,86,correct,long,0.75,1.19,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,87,correct,long,0.75,1.26,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,88,correct,short,0.75,0.74,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,89,correct,long,0.75,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,90,correct,short,0.75,0.71,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,91,early,long,0.5,0.59,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,92,correct,short,0.5,0.64,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,93,late,short,0.5,4.08,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,94,correct,long,0.5,1.74,True,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,95,correct,short,0.5,0.64,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,96,early,long,0.5,0.19,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,97,early,long,0.5,0.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,98,early,short,0.5,0.22,False,R1,no press time at all (no TTL and no press_np_s)
+20260514_r0000136_wt_1317,136,99,late,short,0.5,2.03,False,R1,no press time at all (no TTL and no press_np_s)
+20260515_r0000135_wt_1957,135,87,correct,long,0.75,1.53,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,39,correct,short,0.5,0.83,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,40,correct,short,0.5,0.8,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,41,correct,long,0.5,1.59,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,42,late,short,0.5,2.33,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,43,correct,long,0.5,1.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,44,early,long,0.5,0.17,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,45,early,long,0.5,0.78,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,46,correct,short,0.5,0.95,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,47,correct,short,0.5,0.77,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,48,correct,long,0.5,1.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,49,late,short,0.5,1.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,50,late,short,0.5,1.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,51,early,short,0.5,0.31,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,52,late,short,0.5,2.12,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,53,touch,short,0.5,0.03,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,54,correct,short,0.5,0.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,55,correct,short,0.5,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,56,correct,short,0.75,0.84,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,57,correct,long,0.75,1.36,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,58,correct,long,0.75,1.36,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,59,early,long,0.75,0.73,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,60,correct,long,0.75,1.56,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,61,correct,long,0.75,1.45,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,62,early,long,0.75,0.29,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,63,late,long,0.75,2.54,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,64,late,long,0.75,3.25,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,65,correct,short,0.75,0.65,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,66,late,short,0.75,0.97,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,67,late,short,0.75,2.69,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,68,late,short,0.75,1.6,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,69,early,long,0.75,1.0,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,70,late,long,0.75,1.95,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,71,correct,long,0.75,1.57,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,72,early,long,0.75,0.92,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,73,early,long,0.75,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,74,correct,long,0.75,1.5,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,75,correct,long,0.75,1.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,76,correct,long,0.75,1.61,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,77,late,short,0.5,1.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,78,correct,long,0.5,1.31,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,79,early,short,0.5,0.14,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,80,early,short,0.5,0.28,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,81,correct,short,0.5,0.82,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,82,late,short,0.5,0.93,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,83,early,long,0.5,0.73,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,84,early,long,0.5,0.3,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,85,late,short,0.5,0.96,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,86,late,long,0.5,1.72,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,87,late,short,0.5,2.94,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,88,correct,long,0.5,1.58,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,89,early,short,0.5,0.18,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,90,early,long,0.5,0.3,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,91,early,short,0.5,0.23,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,92,late,short,0.5,2.27,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,93,touch,short,0.5,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,94,correct,short,0.5,0.76,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,95,late,long,0.5,1.83,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,96,correct,short,0.5,0.92,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,97,correct,long,0.5,1.59,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,98,touch,long,0.5,0.06,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,99,correct,long,0.5,1.43,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,100,correct,long,0.5,1.43,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,101,late,short,0.5,2.03,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,102,late,short,0.5,1.01,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,103,late,long,0.5,1.73,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,104,late,long,0.5,1.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,105,late,short,0.5,2.3,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,106,touch,short,0.5,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,107,correct,short,0.5,0.86,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,108,correct,long,0.5,1.6,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,109,correct,long,0.75,1.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,110,correct,long,0.75,1.47,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,111,late,long,0.75,1.64,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,112,correct,long,0.75,1.58,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,113,late,long,0.75,2.54,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,114,early,long,0.75,0.97,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,115,late,long,0.75,2.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,116,correct,long,0.75,1.64,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,117,early,long,0.75,0.24,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,118,correct,long,0.75,1.64,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,119,late,short,0.75,2.47,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,120,late,long,0.75,1.76,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,121,correct,long,0.75,1.61,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,122,late,short,0.75,2.09,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,123,late,short,0.75,2.13,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,124,late,long,0.75,1.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,125,late,long,0.75,2.02,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,126,correct,long,0.75,1.43,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,127,correct,long,0.75,1.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,128,early,short,0.75,0.25,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,129,correct,long,0.75,1.35,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,130,correct,long,0.75,1.59,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,131,late,long,0.0,2.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,132,late,short,0.0,2.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,133,late,short,0.0,5.53,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,134,correct,short,0.0,0.86,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,135,late,short,0.0,2.02,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,136,late,short,0.0,1.11,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,137,late,short,0.0,1.74,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,138,late,short,0.0,2.07,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,139,late,short,0.0,1.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,140,late,short,0.0,1.02,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,141,late,short,0.0,2.05,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,142,late,short,0.0,1.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,143,late,short,0.0,1.84,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,144,late,short,0.0,2.69,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,145,late,short,0.0,2.05,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,146,correct,short,0.0,0.95,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,147,correct,short,0.0,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,148,late,short,0.0,1.43,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,149,correct,short,0.0,0.97,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,150,correct,short,0.0,0.96,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,151,late,short,0.0,1.86,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,152,late,short,0.0,1.19,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,153,correct,short,0.0,0.92,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,154,late,short,0.0,2.01,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,155,late,short,0.0,2.07,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,156,late,short,0.0,2.45,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,157,late,short,0.0,1.95,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,158,late,short,0.0,2.11,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,159,late,short,0.0,1.86,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,160,late,short,0.0,1.61,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,161,late,short,0.0,1.42,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,162,late,short,0.0,2.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,163,correct,short,0.0,0.9,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,164,late,short,0.0,1.93,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,165,late,short,0.0,2.08,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,166,late,short,0.0,1.03,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,167,late,short,0.0,2.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,168,late,short,0.0,1.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,169,correct,short,0.0,0.82,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,170,correct,short,0.0,0.77,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,171,late,short,0.0,2.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,172,late,short,0.0,1.88,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,173,late,short,0.0,3.68,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,174,correct,short,0.0,0.86,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,175,late,short,0.5,2.51,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,176,correct,short,0.5,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,177,correct,long,0.5,1.38,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,178,correct,short,0.5,0.72,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,179,correct,short,0.5,0.87,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,180,early,long,0.5,0.67,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,181,correct,long,0.5,1.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,182,correct,short,0.5,0.91,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,183,other,short,0.5,0.41,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,184,correct,long,0.5,1.53,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,185,correct,short,0.5,0.9,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,186,correct,long,0.5,1.59,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,187,correct,long,0.5,1.48,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,188,correct,long,0.0,1.5,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,189,late,short,0.0,1.95,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,190,correct,short,0.0,0.93,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,191,late,short,0.0,1.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,192,late,short,0.0,2.21,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,193,correct,short,0.0,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,194,other,short,0.0,0.9,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,195,late,short,0.0,0.95,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,196,late,short,0.0,1.99,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,197,correct,short,0.0,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,198,correct,short,0.0,0.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,199,correct,short,0.0,0.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,200,late,short,0.0,0.99,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,201,late,short,0.0,0.97,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,202,late,short,0.0,1.04,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,203,late,short,0.0,2.94,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,204,correct,short,0.0,0.74,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,205,correct,short,0.0,0.83,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,206,late,short,0.0,1.77,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,207,early,short,0.0,0.2,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,208,late,short,0.0,2.72,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,209,late,short,0.0,2.21,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,210,late,short,0.0,1.99,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,211,late,short,0.0,1.64,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,212,late,short,0.0,1.59,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,213,late,short,0.0,1.98,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,214,late,short,0.0,1.53,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,215,late,short,0.0,1.08,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,216,late,short,0.0,2.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,217,late,short,0.0,2.16,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,218,late,short,0.0,1.57,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,219,late,short,0.0,1.26,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,220,correct,short,0.0,0.91,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,221,late,short,0.0,0.92,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,222,late,short,0.0,2.6,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,223,late,short,0.0,1.63,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,224,late,short,0.0,1.39,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,225,late,short,0.0,1.58,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,226,correct,short,0.0,0.89,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,227,correct,short,0.5,0.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,228,early,long,0.5,0.71,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,229,late,short,0.5,1.0,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,230,correct,long,0.5,1.39,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,231,correct,short,0.5,0.77,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,232,correct,short,0.5,0.88,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,233,late,short,0.5,1.86,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,234,correct,long,0.5,1.49,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,235,correct,long,0.5,1.43,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,236,correct,short,0.5,0.86,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,237,correct,long,0.5,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,238,correct,long,0.5,1.42,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,239,other,short,0.5,0.7,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,240,correct,long,0.5,1.43,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,241,correct,long,0.0,1.56,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,242,late,short,0.0,1.04,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,243,late,short,0.0,5.04,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,244,correct,short,0.0,0.9,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,245,correct,short,0.0,0.77,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,246,other,short,0.0,0.81,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,247,correct,short,0.0,0.89,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,248,late,short,0.0,1.12,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,249,early,short,0.0,0.25,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,250,late,short,0.0,1.88,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,251,correct,short,0.0,0.88,True,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,252,late,short,0.0,2.42,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,253,late,short,0.0,2.79,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,254,late,short,0.0,1.11,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000135_wt_1846,135,255,late,short,0.0,2.01,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000136_wt_1557,136,182,correct,short,0.5,0.64,False,R1,no press time at all (no TTL and no press_np_s)
+20260517_r0000136_wt_1557,136,183,late,short,0.5,4.76,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,0,early,long,0.5,0.71,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,1,late,short,0.5,1.12,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,2,correct,long,0.5,1.22,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,3,correct,long,0.5,1.27,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,4,early,long,0.5,0.19,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,5,early,long,0.5,0.18,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,6,late,long,0.5,2.65,False,R1,no press time at all (no TTL and no press_np_s)
+20260519_r0000136_wt_2031,136,7,correct,long,0.5,1.26,False,R1,no press time at all (no TTL and no press_np_s)
+20260527_r0000135_wt_1217,135,0,early,long,0.5,0.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,113,correct,long,0.75,1.4,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,114,correct,long,0.75,1.32,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,115,late,long,0.75,1.57,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,116,touch,long,0.75,0.09,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,117,correct,long,0.75,1.39,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,118,correct,short,0.25,0.7,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,119,correct,short,0.25,0.69,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,120,correct,short,0.25,0.7,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,121,correct,short,0.25,0.68,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,122,correct,short,0.25,0.69,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,123,correct,long,0.25,1.39,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,124,correct,short,0.25,0.7,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,125,correct,short,0.25,0.56,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,126,correct,short,0.25,0.8,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,127,correct,short,0.25,0.85,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,128,correct,short,0.75,0.63,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,129,correct,long,0.75,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,130,correct,long,0.75,1.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,131,late,long,0.75,1.58,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,132,correct,long,0.75,1.38,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,133,correct,long,0.75,1.34,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,134,correct,long,0.75,1.52,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,135,correct,long,0.75,1.44,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,136,correct,long,0.75,1.41,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,137,correct,long,0.75,1.17,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,138,touch,short,0.75,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,139,correct,short,0.75,0.84,False,R1,no press time at all (no TTL and no press_np_s)
+20260611_r0000134_wt_1309,134,140,early,long,0.25,0.14,False,R1,no press time at all (no TTL and no press_np_s)
+20260615_r0000134_wt_1825,134,233,correct,long,1.0,1.55,False,R1,no press time at all (no TTL and no press_np_s)
+20260616_r0000134_wt_1653,134,116,touch,long,0.75,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260620_r0000134_wt_1512,134,29,correct,long,0.75,1.37,False,R1,no press time at all (no TTL and no press_np_s)
+20260622_r0000135_wt_1426,135,0,touch,long,0.5,0.1,False,R1,no press time at all (no TTL and no press_np_s)
+20260510_r0000135_wt_1625,135,20,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,21,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,24,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,25,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,27,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,36,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,37,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,38,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,45,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,46,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,47,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,52,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,54,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,56,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,60,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,64,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,68,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,69,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,70,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,72,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,73,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,77,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,79,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,90,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,91,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,95,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,96,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,99,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,100,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,104,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,108,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,113,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,114,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,115,touch,short,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,118,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,120,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,123,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,125,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,129,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,131,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,132,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,134,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,138,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000135_wt_1625,135,139,touch,long,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,11,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,17,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,20,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,22,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,25,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,29,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,31,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,58,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,61,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,68,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,72,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,82,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,87,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,99,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,101,touch,short,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,102,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,120,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,122,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,126,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,128,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,146,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,157,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,168,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,169,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0909,136,0,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0909,136,7,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0909,136,21,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,15,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,37,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,54,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,55,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,56,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,57,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_0930,136,58,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_1832,136,25,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_1832,136,28,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_1832,136,43,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_1832,136,69,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_1832,136,97,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260511_r0000136_wt_1832,136,108,touch,long,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,2,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,24,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,31,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,33,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,48,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,78,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,98,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260512_r0000136_wt_1054,136,124,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260514_r0000136_wt_1317,136,18,touch,short,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,96,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,120,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,142,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,150,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,151,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,158,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,171,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,178,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,195,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,197,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,208,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,209,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1953,135,218,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,0,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,6,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,18,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,24,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,29,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,46,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,48,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,60,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000135_wt_1957,135,75,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000136_wt_1817,136,9,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000136_wt_1817,136,26,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000136_wt_1817,136,68,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000136_wt_1817,136,97,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260515_r0000136_wt_1817,136,104,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000135_wt_1846,135,4,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,0,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,28,touch,short,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,29,touch,short,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,41,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,48,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,56,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,59,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,74,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,99,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,108,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,109,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,111,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260517_r0000136_wt_1557,136,114,touch,short,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,14,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,15,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,18,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,19,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,20,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,25,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,28,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,29,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,31,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,35,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,39,touch,short,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,43,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,45,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,49,touch,short,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,50,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,52,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,53,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,58,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,63,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,66,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,72,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,78,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,84,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,98,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,110,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,119,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,123,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,128,touch,short,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,133,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,138,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260519_r0000136_wt_2031,136,149,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000135_wt_1357,135,24,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000135_wt_1357,135,57,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000135_wt_1357,135,105,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,4,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,19,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,26,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,27,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,32,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,39,touch,short,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,71,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,77,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,87,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,104,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260520_r0000136_wt_1443,136,125,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,3,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,9,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,10,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,12,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,19,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,26,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,31,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,35,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,42,touch,short,0.25,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,50,touch,long,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,53,touch,short,0.25,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,72,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,91,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,98,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,100,touch,long,0.25,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,109,touch,short,0.25,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,130,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000135_wt_1309,135,171,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,14,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,21,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,24,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,42,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,46,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,68,touch,short,0.25,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,72,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,78,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,84,touch,short,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,111,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,112,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,113,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,159,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,167,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260521_r0000136_wt_1221,136,169,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,7,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,10,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,15,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,35,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,36,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,45,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,50,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,52,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,60,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,61,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,69,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,87,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,93,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,100,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,106,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,118,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,123,touch,short,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,156,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,163,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,168,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,187,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,230,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,232,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,236,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,249,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,251,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000135_wt_1716,135,256,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,1,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,5,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,17,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,23,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,43,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,44,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,48,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,104,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,114,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,125,touch,short,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,134,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,136,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,140,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,161,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,162,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,164,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,176,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,180,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,188,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,190,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,191,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,195,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260522_r0000136_wt_1750,136,196,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,9,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,16,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,25,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,26,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,27,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,30,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,33,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,34,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,44,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,60,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000135_wt_1320,135,65,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,18,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,20,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,24,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,25,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,43,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,46,touch,short,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,47,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,53,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,69,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,111,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,116,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,120,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,138,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260523_r0000136_wt_1320,136,145,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,6,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,9,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,12,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,13,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,29,touch,long,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,35,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,36,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,45,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,52,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,53,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,69,touch,short,0.02,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,80,touch,short,0.02,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,116,touch,short,0.02,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,129,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,137,touch,short,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,158,touch,short,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,159,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,164,touch,short,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,186,touch,short,0.25,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,190,touch,short,0.25,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,233,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,241,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,246,touch,short,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,258,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,268,touch,short,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,274,touch,short,0.25,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000135_wt_1944,135,281,touch,long,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,2,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,3,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,8,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,30,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,33,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,40,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,43,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,59,touch,short,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,62,touch,long,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,72,touch,short,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,83,touch,short,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,85,touch,long,0.25,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,110,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,145,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,178,touch,short,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,203,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260524_r0000136_wt_1836,136,207,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,4,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,21,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,27,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,66,touch,short,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,101,touch,short,0.25,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,105,touch,short,0.25,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,111,touch,short,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,136,touch,long,0.25,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000135_wt_1426,135,178,touch,short,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000136_wt_1523,136,1,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000136_wt_1523,136,5,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000136_wt_1523,136,13,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000136_wt_1523,136,72,touch,short,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260525_r0000136_wt_1523,136,86,touch,long,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000135_wt_1411,135,76,touch,short,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000135_wt_1411,135,79,touch,long,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000135_wt_1411,135,90,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000136_wt_1317,136,2,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000136_wt_1317,136,7,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000136_wt_1317,136,36,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260526_r0000136_wt_1317,136,120,touch,short,0.25,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000135_wt_1217,135,3,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000135_wt_1217,135,11,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000135_wt_1217,135,30,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000135_wt_1217,135,159,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000135_wt_1217,135,164,touch,short,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000135_wt_1217,135,176,touch,short,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,7,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,23,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,27,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,28,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,39,touch,short,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,61,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,71,touch,short,0.25,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,116,touch,long,0.25,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,119,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260527_r0000136_wt_1252,136,133,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,6,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,32,touch,short,0.1,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,39,touch,short,0.1,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,45,touch,long,0.9,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,47,touch,long,0.9,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,79,touch,long,0.1,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,111,touch,long,0.9,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000135_wt_1825,135,237,touch,short,0.1,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,2,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,5,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,8,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,14,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,19,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,23,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,28,touch,long,0.1,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,31,touch,short,0.1,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,34,touch,short,0.1,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,38,touch,long,0.1,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,39,touch,long,0.1,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,40,touch,long,0.1,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,47,touch,short,0.1,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,57,touch,long,0.9,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,61,touch,short,0.9,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,64,touch,long,0.9,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,68,touch,short,0.1,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,69,touch,short,0.1,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,77,touch,long,0.1,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,78,touch,long,0.1,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,88,touch,long,0.9,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,99,touch,long,0.9,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,101,touch,long,0.9,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,116,touch,short,0.9,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,124,touch,long,0.9,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,131,touch,long,0.1,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,138,touch,short,0.1,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,139,touch,short,0.1,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,159,touch,long,0.9,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,163,touch,short,0.1,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,176,touch,short,0.1,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,199,touch,short,0.1,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,203,touch,short,0.1,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,204,touch,short,0.1,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260528_r0000136_wt_1912,136,205,touch,short,0.1,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000135_wt_1411,135,38,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000135_wt_1411,135,53,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000135_wt_1411,135,96,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000135_wt_1411,135,203,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,5,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,13,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,32,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,35,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,36,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,44,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,48,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,52,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,61,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,62,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,63,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,68,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,77,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,86,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,118,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,124,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,129,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,131,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,144,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260529_r0000136_wt_1318,136,159,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,0,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,3,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,4,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,9,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,21,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,43,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,76,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,124,touch,long,1.0,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,125,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,166,touch,long,1.0,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,168,touch,long,1.0,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,193,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,263,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260602_r0000135_wt_1715,135,284,touch,long,1.0,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260603_r0000135_wt_1641,135,68,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260603_r0000135_wt_1641,135,214,touch,long,1.0,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260603_r0000135_wt_1641,135,216,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,0,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,1,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,3,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,4,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,6,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,16,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,19,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,32,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,43,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,83,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,94,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,101,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000134_wt_1622,134,102,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000135_wt_1644,135,0,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000135_wt_1644,135,12,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000135_wt_1644,135,15,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000135_wt_1644,135,151,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260609_r0000135_wt_1644,135,188,touch,long,1.0,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,2,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,6,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,8,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,11,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,14,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,17,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,18,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,20,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,21,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,28,touch,short,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,33,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,38,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,53,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,56,touch,long,0.75,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,57,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,60,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,67,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,71,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,78,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,82,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,98,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,100,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,102,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,121,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,123,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,132,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,136,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,139,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000134_wt_1923,134,174,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,0,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,1,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,6,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,8,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,13,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,45,touch,long,1.0,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,55,touch,long,1.0,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,68,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,97,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,109,touch,long,1.0,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,115,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,142,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,146,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,151,touch,long,1.0,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,171,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260610_r0000135_wt_2313,135,176,touch,long,1.0,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,15,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,24,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,38,touch,short,0.25,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,47,touch,short,0.25,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,64,touch,short,0.25,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,75,touch,short,0.25,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,95,touch,long,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000134_wt_1309,134,99,touch,long,0.25,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,2,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,4,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,11,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,81,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,94,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,182,touch,long,1.0,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,183,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,187,touch,long,1.0,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,190,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,191,touch,long,1.0,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260611_r0000135_wt_1415,135,201,touch,long,1.0,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000134_wt_1447,134,2,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000134_wt_1447,134,35,touch,short,0.1,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000134_wt_1447,134,101,touch,short,0.9,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000134_wt_1447,134,114,touch,long,0.9,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000134_wt_1447,134,137,touch,long,0.9,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000134_wt_1447,134,139,touch,long,0.9,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000135_wt_1444,135,24,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000135_wt_1444,135,60,touch,long,1.0,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000135_wt_1444,135,65,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260612_r0000135_wt_1444,135,99,touch,long,1.0,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,3,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,6,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,39,touch,long,1.0,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,58,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,64,touch,long,1.0,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,66,touch,long,1.0,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,68,touch,long,1.0,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,100,touch,long,1.0,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,118,touch,long,1.0,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,143,touch,long,1.0,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,169,touch,long,1.0,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,186,touch,long,1.0,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000134_wt_1825,134,227,touch,long,1.0,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000135_wt_1902,135,6,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000135_wt_1902,135,7,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000135_wt_1902,135,19,touch,short,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000135_wt_1902,135,60,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000135_wt_1902,135,69,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260615_r0000135_wt_1902,135,84,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000134_wt_1653,134,17,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000134_wt_1653,134,62,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,1,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,2,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,9,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,11,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,13,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,19,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,54,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,73,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,83,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,187,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260616_r0000135_wt_1742,135,189,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000134_wt_1914,134,12,touch,long,0.75,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000134_wt_1914,134,24,touch,long,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000134_wt_1914,134,74,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000134_wt_1914,134,82,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000134_wt_1914,134,108,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000135_wt_1944,135,14,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000135_wt_1944,135,18,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260617_r0000135_wt_1944,135,104,touch,short,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,0,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,14,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,17,touch,long,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,26,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,55,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,98,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,173,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000134_wt_1554,134,199,touch,short,0.75,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,2,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,3,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,7,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,49,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,61,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,67,touch,long,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,105,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,140,touch,short,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260620_r0000135_wt_1627,135,154,touch,short,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000134_wt_1533,134,82,touch,long,0.2,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000135_wt_1618,135,11,touch,short,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000135_wt_1618,135,13,touch,short,0.5,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000135_wt_1618,135,24,touch,short,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000135_wt_1618,135,31,touch,long,0.8,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000135_wt_1618,135,89,touch,long,0.8,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260621_r0000135_wt_1618,135,90,touch,long,0.8,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000134_wt_1513,134,17,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000134_wt_1513,134,24,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000134_wt_1513,134,50,touch,long,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000134_wt_1513,134,112,touch,long,0.75,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000134_wt_1513,134,146,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000135_wt_1426,135,3,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000135_wt_1426,135,4,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000135_wt_1426,135,5,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000135_wt_1426,135,50,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000135_wt_1426,135,59,touch,long,0.5,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260622_r0000135_wt_1426,135,88,touch,short,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000134_wt_1232,134,26,touch,other_wt,0.75,0.07,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000134_wt_1232,134,92,touch,other_wt,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000134_wt_1232,134,128,touch,other_wt,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000135_wt_1111,135,2,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000135_wt_1111,135,10,touch,short,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000135_wt_1111,135,29,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260623_r0000135_wt_1111,135,46,touch,long,0.5,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,0,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,4,touch,long,0.5,0.08,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,5,touch,long,0.5,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,11,touch,long,0.5,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,21,touch,long,0.5,0.09,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,101,touch,long,0.9,0.1,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260624_r0000135_wt_1257,135,105,touch,long,0.9,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260625_r0000134_wt_1820,134,55,touch,other_wt,0.75,0.03,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260625_r0000134_wt_1820,134,81,touch,other_wt,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260625_r0000134_wt_1820,134,84,touch,other_wt,0.75,0.06,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260625_r0000135_wt_1846,135,0,touch,long,0.5,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260625_r0000135_wt_1846,135,49,touch,short,0.01,0.04,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260625_r0000135_wt_1846,135,101,touch,long,0.75,0.05,False,R2,"touch (hold < 0.1 s, not a real press)"
+20260510_r0000136_wt_1926,136,71,other,long,0.75,1.33,False,R4,"outcome ""other"""
+20260511_r0000136_wt_0909,136,33,other,short,0.5,3.38,False,R4,"outcome ""other"""
+20260511_r0000136_wt_0909,136,34,other,long,0.5,1.19,False,R4,"outcome ""other"""
+20260511_r0000136_wt_0930,136,41,other,short,0.5,2.12,False,R4,"outcome ""other"""
+20260511_r0000136_wt_0930,136,43,other,long,0.5,2.41,False,R4,"outcome ""other"""
+20260511_r0000136_wt_1832,136,41,other,short,0.5,1.06,False,R4,"outcome ""other"""
+20260511_r0000136_wt_1832,136,89,other,long,0.5,1.76,False,R4,"outcome ""other"""
+20260511_r0000136_wt_1832,136,93,other,long,0.5,1.75,False,R4,"outcome ""other"""
+20260511_r0000136_wt_1832,136,96,other,short,0.5,2.45,False,R4,"outcome ""other"""
+20260512_r0000136_wt_1054,136,42,other,short,0.75,0.97,False,R4,"outcome ""other"""
+20260512_r0000136_wt_1054,136,45,other,short,0.5,0.58,False,R4,"outcome ""other"""
+20260512_r0000136_wt_1054,136,52,other,long,0.5,1.23,False,R4,"outcome ""other"""
+20260517_r0000136_wt_1557,136,153,other,long,0.75,3.44,False,R4,"outcome ""other"""
+20260517_r0000136_wt_1557,136,155,other,short,0.75,1.87,False,R4,"outcome ""other"""
+20260519_r0000136_wt_2031,136,113,other,short,0.5,0.78,False,R4,"outcome ""other"""
+20260520_r0000136_wt_1443,136,7,other,short,0.5,1.68,False,R4,"outcome ""other"""
+20260520_r0000136_wt_1443,136,113,other,short,0.5,2.08,False,R4,"outcome ""other"""
+20260521_r0000136_wt_1221,136,179,other,short,0.75,3.43,False,R4,"outcome ""other"""
+20260522_r0000136_wt_1750,136,146,other,long,0.5,2.99,False,R4,"outcome ""other"""
+20260523_r0000136_wt_1320,136,98,other,short,0.5,0.52,False,R4,"outcome ""other"""
+20260524_r0000136_wt_1836,136,94,other,short,0.75,0.77,False,R4,"outcome ""other"""
+20260524_r0000136_wt_1836,136,123,other,short,0.25,1.42,False,R4,"outcome ""other"""
+20260526_r0000136_wt_1317,136,152,other,long,0.75,8.86,False,R4,"outcome ""other"""
+20260528_r0000136_wt_1912,136,92,other,long,0.9,2.63,False,R4,"outcome ""other"""
+20260528_r0000136_wt_1912,136,158,other,long,0.9,1.07,False,R4,"outcome ""other"""
+20260528_r0000136_wt_1912,136,175,other,short,0.1,1.1,False,R4,"outcome ""other"""
+20260528_r0000136_wt_1912,136,182,other,long,0.9,3.18,False,R4,"outcome ""other"""
+20260529_r0000136_wt_1318,136,47,other,short,0.5,0.56,False,R4,"outcome ""other"""
+20260529_r0000136_wt_1318,136,134,other,short,0.5,0.54,False,R4,"outcome ""other"""
+20260609_r0000135_wt_1644,135,13,other,long,0.5,1.18,False,R4,"outcome ""other"""
+20260625_r0000134_wt_1820,134,1,other,long,0.5,0.87,False,R4,"outcome ""other"""
+20260623_r0000134_wt_1232,134,12,early,other_wt,0.5,1.21,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,17,early,other_wt,0.75,1.26,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,20,early,other_wt,0.75,1.31,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,26,early,other_wt,0.75,1.22,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,27,early,other_wt,0.75,1.34,True,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,29,early,other_wt,1.0,1.2,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,43,early,other_wt,1.0,1.31,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,47,early,other_wt,0.75,1.25,False,R3,early with hold > 1.05 s
+20260625_r0000134_wt_1820,134,56,early,other_wt,0.75,1.28,False,R3,early with hold > 1.05 s
+20260623_r0000134_wt_1232,134,0,correct,long,0.5,1.15,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,1,late,short,0.5,0.89,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,2,late,short,0.5,1.13,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,3,correct,other_wt,0.5,0.86,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,4,correct,other_wt,0.5,1.63,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,5,early,other_wt,0.5,0.7,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,6,correct,other_wt,0.5,1.37,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,7,correct,other_wt,0.5,1.56,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,8,early,other_wt,0.5,0.77,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,9,correct,other_wt,0.5,1.01,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,10,late,other_wt,0.5,1.11,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,11,late,other_wt,0.5,1.61,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,13,early,other_wt,0.5,0.48,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,14,correct,other_wt,0.5,0.77,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,15,correct,other_wt,0.5,0.9,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,16,late,other_wt,0.5,1.06,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,17,early,other_wt,0.5,0.24,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,18,correct,other_wt,0.5,1.77,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,19,early,other_wt,0.5,0.84,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,20,correct,other_wt,0.5,1.01,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,21,late,other_wt,0.75,1.88,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,22,correct,other_wt,0.75,1.75,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,23,correct,other_wt,0.75,0.93,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,24,correct,other_wt,0.75,0.91,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,25,correct,other_wt,0.75,1.78,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,27,correct,other_wt,0.75,0.8,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,28,correct,other_wt,0.75,1.62,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,29,correct,other_wt,0.75,1.62,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,30,correct,other_wt,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,31,correct,other_wt,0.75,1.76,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,32,correct,other_wt,0.75,1.62,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,33,correct,other_wt,0.5,0.95,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,34,correct,other_wt,0.5,1.49,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,35,early,other_wt,0.5,0.86,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,36,early,other_wt,0.5,0.96,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,37,correct,other_wt,0.5,0.91,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,38,late,other_wt,0.5,1.09,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,39,late,other_wt,0.5,1.89,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,40,correct,other_wt,0.5,1.81,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,41,correct,other_wt,0.5,1.57,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,42,correct,other_wt,0.5,1.55,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,43,correct,other_wt,0.5,1.84,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,44,correct,other_wt,0.5,0.85,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,45,correct,other_wt,0.5,1.74,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,46,correct,other_wt,0.5,0.87,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,47,correct,other_wt,0.75,1.69,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,48,correct,other_wt,0.75,1.57,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,49,correct,other_wt,0.75,1.61,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,50,late,other_wt,0.75,2.58,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,51,early,other_wt,0.75,0.38,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,52,correct,other_wt,0.75,0.99,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,53,correct,other_wt,0.75,1.59,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,54,correct,other_wt,0.75,1.42,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,55,correct,other_wt,0.75,1.66,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,56,correct,other_wt,0.75,1.72,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,57,correct,other_wt,0.75,0.92,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,58,correct,other_wt,0.75,0.94,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,59,correct,other_wt,0.5,0.92,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,60,correct,other_wt,0.5,1.65,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,61,correct,other_wt,0.5,0.94,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,62,correct,other_wt,0.5,0.88,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,63,correct,other_wt,0.5,0.93,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,64,correct,other_wt,0.5,1.72,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,65,correct,other_wt,0.5,1.62,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,66,correct,other_wt,0.5,1.67,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,67,correct,other_wt,0.5,0.84,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,68,early,other_wt,0.5,0.68,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,69,correct,other_wt,0.5,1.57,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,70,late,other_wt,0.75,1.12,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,71,late,other_wt,0.75,2.41,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,72,late,other_wt,0.75,1.7,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,73,correct,other_wt,0.75,1.58,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,74,correct,other_wt,0.75,1.02,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,75,correct,other_wt,0.75,1.82,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,76,correct,other_wt,0.75,1.57,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,77,correct,other_wt,0.75,1.84,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,78,late,other_wt,0.75,1.34,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,79,late,other_wt,0.75,1.93,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,80,early,other_wt,0.75,1.03,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,81,correct,other_wt,0.75,0.93,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,82,correct,other_wt,0.75,1.7,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,83,late,other_wt,0.75,1.89,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,84,correct,other_wt,0.75,1.59,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,85,late,other_wt,0.75,1.94,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,86,correct,other_wt,0.75,0.93,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,87,correct,other_wt,0.75,0.89,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,88,correct,other_wt,0.5,1.65,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,89,correct,other_wt,0.5,1.81,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,90,correct,other_wt,0.5,0.74,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,91,late,other_wt,0.5,1.92,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,93,correct,other_wt,0.5,1.62,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,94,correct,other_wt,0.5,0.97,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,95,correct,other_wt,0.5,1.62,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,96,correct,other_wt,0.5,0.7,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,97,correct,other_wt,0.5,0.75,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,98,correct,other_wt,0.5,1.65,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,99,correct,other_wt,0.5,0.93,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,100,correct,other_wt,0.75,1.61,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,101,late,other_wt,0.75,1.22,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,102,late,other_wt,0.75,2.0,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,103,early,other_wt,0.75,0.77,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,104,correct,other_wt,0.75,1.61,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,105,correct,other_wt,0.75,1.59,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,106,early,other_wt,0.75,1.01,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,107,correct,other_wt,0.75,1.52,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,108,early,other_wt,0.75,0.85,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,109,early,other_wt,0.75,0.1,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,110,correct,other_wt,0.75,1.78,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,111,correct,other_wt,0.75,0.99,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,112,correct,other_wt,0.75,0.87,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,113,late,other_wt,0.75,1.99,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,114,late,other_wt,0.75,1.94,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,115,correct,other_wt,0.75,1.76,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,116,correct,other_wt,0.75,1.71,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,117,correct,other_wt,0.75,1.83,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,118,correct,other_wt,0.5,1.85,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,119,late,other_wt,0.5,1.89,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,120,correct,other_wt,0.5,0.99,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,121,correct,other_wt,0.5,0.99,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,122,correct,other_wt,0.5,0.87,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,123,correct,other_wt,0.5,0.86,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,124,correct,other_wt,0.5,1.69,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,125,correct,other_wt,0.5,0.94,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,126,late,other_wt,0.5,1.24,False,WT,WT-manipulation session (rat 134)
+20260623_r0000134_wt_1232,134,127,late,other_wt,0.5,1.06,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,0,early,long,0.5,0.53,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,1,correct,short,0.5,0.76,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,2,early,long,0.5,0.82,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,3,correct,other_wt,0.5,0.88,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,4,late,other_wt,0.5,2.02,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,5,late,other_wt,0.5,2.02,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,6,correct,long,0.5,1.28,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,7,correct,other_wt,0.5,1.02,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,8,late,long,0.5,1.77,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,9,late,long,0.5,2.09,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,10,late,long,0.5,2.47,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,11,correct,other_wt,0.5,1.03,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,12,correct,long,0.5,1.38,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,13,correct,long,0.5,1.45,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,14,correct,other_wt,0.5,1.05,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,15,late,other_wt,0.5,2.43,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,16,correct,other_wt,0.5,1.03,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,17,correct,other_wt,0.5,1.01,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,18,correct,other_wt,0.75,0.91,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,19,correct,long,0.75,1.45,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,20,correct,long,0.75,1.3,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,21,late,long,0.75,2.18,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,22,correct,other_wt,0.75,0.8,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,23,correct,long,0.75,1.24,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,24,correct,long,0.75,1.48,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,25,correct,other_wt,0.75,0.92,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,26,correct,long,0.75,1.3,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,27,correct,long,0.75,1.27,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,28,correct,other_wt,0.75,0.83,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,29,correct,other_wt,1.0,0.89,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,30,correct,long,1.0,1.4,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,31,correct,long,1.0,1.33,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,32,correct,long,1.0,1.43,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,33,correct,long,1.0,1.44,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,34,correct,long,1.0,1.39,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,35,correct,long,1.0,1.4,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,36,correct,long,1.0,1.31,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,37,correct,long,1.0,1.36,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,38,early,long,1.0,0.25,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,39,correct,long,1.0,1.31,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,40,early,long,0.75,1.03,True,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,41,correct,long,0.75,1.46,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,42,correct,other_wt,0.75,0.79,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,43,correct,long,0.75,1.41,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,44,correct,long,0.75,1.38,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,45,correct,long,0.75,1.54,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,46,correct,other_wt,0.75,0.72,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,47,correct,long,0.75,1.53,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,48,correct,long,0.75,1.39,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,49,correct,long,0.75,1.4,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,50,correct,other_wt,0.75,0.89,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,51,correct,long,1.0,1.48,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,52,correct,long,1.0,1.41,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,53,early,long,1.0,0.54,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,54,late,long,1.0,1.68,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,55,early,long,1.0,0.72,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,56,correct,long,1.0,1.31,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,57,correct,long,1.0,1.36,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,58,early,long,1.0,0.56,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,59,early,long,1.0,1.02,True,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,60,correct,long,1.0,1.07,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,61,late,long,1.0,1.56,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,62,correct,long,1.0,1.42,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,63,late,long,1.0,1.56,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,64,late,long,1.0,1.63,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,65,correct,long,1.0,1.31,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,66,correct,long,1.0,1.4,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,67,correct,long,1.0,1.49,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,68,correct,long,1.0,1.35,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,69,late,long,0.75,1.65,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,70,correct,long,0.75,1.43,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,71,correct,long,0.75,1.42,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,72,correct,long,0.75,1.49,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,73,late,long,0.75,2.7,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,74,late,other_wt,0.75,1.4,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,75,correct,long,0.75,1.16,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,76,correct,long,0.75,1.55,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,77,correct,long,0.75,1.38,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,78,correct,long,0.75,1.42,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,79,late,long,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,80,correct,long,0.75,1.46,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,81,correct,long,0.75,1.47,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,82,correct,long,0.75,1.47,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,83,correct,other_wt,1.0,0.89,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,84,correct,long,1.0,1.38,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,85,correct,long,1.0,1.45,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,86,correct,long,1.0,1.42,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,87,correct,long,1.0,1.4,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,88,correct,long,1.0,1.39,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,89,correct,long,1.0,1.49,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,90,correct,long,1.0,1.44,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,91,correct,long,1.0,1.43,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,92,correct,long,1.0,1.54,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,93,correct,long,0.75,1.36,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,94,correct,long,0.75,1.33,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,95,correct,long,0.75,1.53,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,96,early,long,0.75,0.28,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,97,correct,other_wt,0.75,0.84,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,98,late,long,0.75,1.82,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,99,late,long,0.75,1.7,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,100,late,long,0.75,1.65,False,WT,WT-manipulation session (rat 134)
+20260624_r0000134_wt_1323,134,101,early,long,0.75,0.36,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,0,early,long,0.5,0.14,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,2,correct,short,0.5,0.62,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,3,late,other_wt,0.5,1.31,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,4,correct,other_wt,0.5,1.82,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,5,early,other_wt,0.5,0.85,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,6,correct,other_wt,0.5,1.67,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,7,correct,other_wt,0.5,0.92,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,8,correct,other_wt,0.5,1.65,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,9,correct,other_wt,0.5,0.81,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,10,correct,other_wt,0.5,0.98,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,11,correct,other_wt,0.5,0.84,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,12,correct,other_wt,0.5,1.68,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,13,correct,other_wt,0.5,0.84,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,14,correct,other_wt,0.75,1.55,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,15,correct,other_wt,0.75,1.61,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,16,correct,other_wt,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,18,early,other_wt,0.75,0.95,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,19,correct,other_wt,0.75,1.64,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,21,correct,other_wt,0.75,1.66,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,22,correct,other_wt,0.75,1.56,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,23,correct,other_wt,0.75,0.96,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,24,correct,other_wt,0.75,1.66,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,25,correct,other_wt,0.75,1.55,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,28,correct,other_wt,0.75,0.82,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,30,correct,other_wt,1.0,1.58,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,31,early,other_wt,1.0,0.69,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,32,correct,other_wt,1.0,1.59,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,33,late,other_wt,1.0,1.92,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,34,correct,other_wt,1.0,1.43,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,35,correct,other_wt,1.0,1.61,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,36,correct,other_wt,1.0,1.66,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,37,early,other_wt,1.0,0.94,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,38,correct,other_wt,1.0,1.77,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,39,correct,other_wt,1.0,1.65,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,40,correct,other_wt,1.0,1.72,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,41,early,other_wt,1.0,1.05,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,42,correct,other_wt,1.0,1.56,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,44,early,other_wt,1.0,0.93,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,45,early,other_wt,1.0,0.87,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,46,correct,other_wt,1.0,1.57,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,48,correct,other_wt,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,49,correct,other_wt,0.75,0.88,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,50,correct,other_wt,0.75,1.7,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,51,correct,other_wt,0.75,1.61,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,52,correct,other_wt,0.75,1.57,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,53,correct,other_wt,0.75,1.64,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,54,correct,other_wt,0.75,0.81,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,57,correct,other_wt,0.75,1.67,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,58,late,other_wt,0.75,2.38,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,59,correct,other_wt,0.75,0.94,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,60,correct,other_wt,0.75,1.62,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,61,correct,other_wt,1.0,1.75,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,62,correct,other_wt,1.0,1.59,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,63,late,other_wt,1.0,1.86,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,64,correct,other_wt,1.0,1.6,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,65,correct,other_wt,1.0,1.74,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,66,correct,other_wt,1.0,1.8,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,67,correct,other_wt,1.0,1.76,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,68,correct,other_wt,1.0,1.62,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,69,correct,other_wt,1.0,1.66,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,70,correct,other_wt,1.0,1.64,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,71,correct,other_wt,1.0,1.74,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,72,correct,other_wt,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,73,correct,other_wt,0.75,1.56,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,74,correct,other_wt,0.75,1.57,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,75,correct,other_wt,0.75,1.68,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,76,correct,other_wt,0.75,0.88,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,77,correct,other_wt,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,78,correct,other_wt,0.75,1.6,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,79,correct,other_wt,0.75,0.91,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,80,early,other_wt,0.75,0.87,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,82,early,other_wt,0.75,0.18,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,83,early,other_wt,0.75,0.18,False,WT,WT-manipulation session (rat 134)
+20260625_r0000134_wt_1820,134,85,early,other_wt,0.75,0.11,False,WT,WT-manipulation session (rat 134)
+20260510_r0000135_wt_1625,135,22,early,short,0.5,0.33,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,44,correct,short,0.5,0.95,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,48,correct,short,0.5,0.91,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,55,correct,short,0.5,0.93,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,63,correct,short,0.5,1.08,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,111,correct,short,0.5,0.88,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,116,correct,short,0.75,1.28,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,126,correct,long,0.75,1.57,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,128,correct,short,0.75,0.87,True,TM,timing_mismatch
+20260510_r0000135_wt_1625,135,130,correct,short,0.75,0.91,True,TM,timing_mismatch
+20260510_r0000136_wt_1926,136,7,correct,short,0.5,0.93,True,TM,timing_mismatch
+20260510_r0000136_wt_1926,136,91,early,long,0.5,1.03,True,TM,timing_mismatch
+20260511_r0000136_wt_0909,136,4,correct,short,0.5,0.92,True,TM,timing_mismatch
+20260511_r0000136_wt_0909,136,10,correct,long,0.5,1.6,True,TM,timing_mismatch
+20260511_r0000136_wt_0909,136,20,correct,short,0.75,0.88,True,TM,timing_mismatch
+20260511_r0000136_wt_0930,136,12,early,long,0.5,1.02,True,TM,timing_mismatch
+20260511_r0000136_wt_0930,136,30,early,long,0.5,1.04,True,TM,timing_mismatch
+20260514_r0000136_wt_1317,136,3,correct,short,0.5,1.05,True,TM,timing_mismatch
+20260514_r0000136_wt_1317,136,15,correct,long,0.5,1.66,True,TM,timing_mismatch
+20260514_r0000136_wt_1317,136,32,correct,long,0.75,1.63,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,94,correct,long,0.5,1.7,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,98,correct,long,0.5,1.71,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,109,correct,long,0.75,1.65,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,113,correct,long,0.75,1.61,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,121,correct,long,0.75,1.64,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,132,correct,long,0.5,1.59,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,134,early,short,0.5,0.32,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,141,correct,short,0.5,0.86,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,145,correct,short,0.5,0.32,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,163,correct,long,0.75,1.56,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,186,correct,long,0.5,1.56,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,187,correct,short,0.75,0.87,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,199,correct,short,0.75,0.88,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,202,correct,long,0.75,1.57,True,TM,timing_mismatch
+20260515_r0000135_wt_1953,135,224,early,short,0.5,0.32,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,10,correct,short,0.5,0.91,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,26,correct,short,0.5,0.92,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,54,correct,long,0.75,1.61,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,56,correct,long,0.75,1.61,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,57,correct,short,0.75,0.9,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,58,correct,long,0.75,1.56,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,66,correct,long,0.5,1.56,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,67,correct,long,0.5,1.61,True,TM,timing_mismatch
+20260515_r0000135_wt_1957,135,85,correct,short,0.5,0.87,True,TM,timing_mismatch
+20260515_r0000136_wt_1817,136,2,correct,short,0.5,0.91,True,TM,timing_mismatch
+20260515_r0000136_wt_1817,136,42,correct,short,0.5,0.87,True,TM,timing_mismatch
+20260515_r0000136_wt_1817,136,47,early,long,0.5,1.03,True,TM,timing_mismatch
+20260515_r0000136_wt_1817,136,52,correct,short,0.5,0.87,True,TM,timing_mismatch
+20260517_r0000135_wt_1846,135,2,correct,short,0.5,1.07,True,TM,timing_mismatch
+20260517_r0000135_wt_1846,135,6,correct,short,0.5,0.89,True,TM,timing_mismatch
+20260517_r0000135_wt_1846,135,9,correct,short,0.5,1.04,True,TM,timing_mismatch
+20260517_r0000135_wt_1846,135,11,correct,short,0.5,1.02,True,TM,timing_mismatch
+20260517_r0000135_wt_1846,135,16,correct,short,0.5,0.94,True,TM,timing_mismatch
+20260517_r0000135_wt_1846,135,21,correct,long,0.75,1.62,True,TM,timing_mismatch
+20260519_r0000136_wt_2031,136,16,early,short,0.5,0.33,True,TM,timing_mismatch
+20260519_r0000136_wt_2031,136,48,early,short,0.75,0.32,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,3,correct,short,0.5,0.9,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,4,correct,short,0.5,0.86,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,7,correct,short,0.5,0.86,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,10,correct,long,0.5,1.62,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,64,correct,short,0.5,0.87,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,66,correct,short,0.5,0.89,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,69,correct,short,0.5,0.92,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,71,correct,short,0.5,0.96,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,72,correct,long,0.5,1.59,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,79,correct,short,0.5,0.94,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,100,correct,long,0.5,1.62,True,TM,timing_mismatch
+20260520_r0000135_wt_1357,135,113,correct,short,0.5,0.88,True,TM,timing_mismatch
+20260520_r0000136_wt_1443,136,16,correct,short,0.5,0.92,True,TM,timing_mismatch
+20260520_r0000136_wt_1443,136,18,correct,long,0.5,1.56,True,TM,timing_mismatch
+20260521_r0000135_wt_1309,135,11,early,long,0.5,1.03,True,TM,timing_mismatch
+20260521_r0000135_wt_1309,135,23,early,long,0.5,1.03,True,TM,timing_mismatch
+20260521_r0000135_wt_1309,135,127,early,long,0.5,1.03,True,TM,timing_mismatch
+20260521_r0000136_wt_1221,136,0,early,long,0.5,1.04,True,TM,timing_mismatch
+20260522_r0000135_wt_1716,135,13,early,long,0.5,1.03,True,TM,timing_mismatch
+20260522_r0000135_wt_1716,135,92,early,short,0.5,0.33,True,TM,timing_mismatch
+20260522_r0000135_wt_1716,135,190,early,long,0.75,1.03,True,TM,timing_mismatch
+20260522_r0000135_wt_1716,135,191,correct,short,0.75,0.32,True,TM,timing_mismatch
+20260522_r0000136_wt_1750,136,90,early,long,0.5,1.02,True,TM,timing_mismatch
+20260523_r0000135_wt_1320,135,28,early,short,0.5,0.33,True,TM,timing_mismatch
+20260523_r0000136_wt_1320,136,6,early,long,0.5,1.04,True,TM,timing_mismatch
+20260523_r0000136_wt_1320,136,113,early,long,0.75,1.04,True,TM,timing_mismatch
+20260524_r0000135_wt_1944,135,54,early,long,0.75,1.02,True,TM,timing_mismatch
+20260524_r0000135_wt_1944,135,78,early,short,0.02,0.33,True,TM,timing_mismatch
+20260524_r0000136_wt_1836,136,163,early,long,0.75,1.02,True,TM,timing_mismatch
+20260524_r0000136_wt_1836,136,174,early,long,0.25,1.02,True,TM,timing_mismatch
+20260525_r0000135_wt_1426,135,64,early,long,0.75,1.03,True,TM,timing_mismatch
+20260525_r0000136_wt_1523,136,53,early,short,0.25,0.33,True,TM,timing_mismatch
+20260525_r0000136_wt_1523,136,75,early,long,0.75,1.02,True,TM,timing_mismatch
+20260525_r0000136_wt_1523,136,84,early,long,0.75,1.02,True,TM,timing_mismatch
+20260525_r0000136_wt_1523,136,110,early,long,0.75,1.02,True,TM,timing_mismatch
+20260525_r0000136_wt_1523,136,128,early,long,0.75,1.04,True,TM,timing_mismatch
+20260526_r0000135_wt_1411,135,25,early,short,0.75,0.32,True,TM,timing_mismatch
+20260526_r0000135_wt_1411,135,42,early,short,0.25,0.33,True,TM,timing_mismatch
+20260526_r0000135_wt_1411,135,67,early,long,0.75,1.03,True,TM,timing_mismatch
+20260526_r0000135_wt_1411,135,96,early,long,0.75,1.03,True,TM,timing_mismatch
+20260526_r0000136_wt_1317,136,10,early,long,0.5,1.03,True,TM,timing_mismatch
+20260526_r0000136_wt_1317,136,16,early,long,0.25,1.02,True,TM,timing_mismatch
+20260527_r0000135_wt_1217,135,33,correct,long,0.75,1.02,True,TM,timing_mismatch
+20260527_r0000135_wt_1217,135,119,early,short,0.25,0.33,True,TM,timing_mismatch
+20260527_r0000135_wt_1217,135,138,correct,long,0.75,1.02,True,TM,timing_mismatch
+20260527_r0000135_wt_1217,135,171,early,short,0.75,0.33,True,TM,timing_mismatch
+20260527_r0000135_wt_1217,135,210,early,long,0.75,1.02,True,TM,timing_mismatch
+20260527_r0000136_wt_1252,136,44,early,long,0.25,1.04,True,TM,timing_mismatch
+20260528_r0000135_wt_1825,135,92,correct,short,0.9,0.32,True,TM,timing_mismatch
+20260528_r0000136_wt_1912,136,63,early,long,0.9,1.04,True,TM,timing_mismatch
+20260529_r0000135_wt_1411,135,99,early,short,0.5,0.33,True,TM,timing_mismatch
+20260529_r0000135_wt_1411,135,149,early,long,0.5,1.03,True,TM,timing_mismatch
+20260529_r0000135_wt_1411,135,150,early,long,0.5,1.02,True,TM,timing_mismatch
+20260529_r0000135_wt_1411,135,177,correct,long,0.5,1.02,True,TM,timing_mismatch
+20260529_r0000136_wt_1318,136,51,early,long,0.5,1.02,True,TM,timing_mismatch
+20260602_r0000135_wt_1715,135,113,early,long,1.0,1.03,True,TM,timing_mismatch
+20260602_r0000135_wt_1715,135,117,early,long,1.0,1.03,True,TM,timing_mismatch
+20260602_r0000135_wt_1715,135,181,early,long,1.0,1.03,True,TM,timing_mismatch
+20260603_r0000135_wt_1641,135,81,early,long,1.0,1.03,True,TM,timing_mismatch
+20260603_r0000135_wt_1641,135,104,correct,long,1.0,1.02,True,TM,timing_mismatch
+20260603_r0000135_wt_1641,135,164,early,long,1.0,1.02,True,TM,timing_mismatch
+20260603_r0000135_wt_1641,135,208,early,long,1.0,1.02,True,TM,timing_mismatch
+20260603_r0000135_wt_1641,135,235,early,long,1.0,1.02,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,8,correct,short,0.5,0.99,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,11,correct,long,0.5,1.76,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,12,correct,short,0.5,0.89,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,13,correct,short,0.5,0.98,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,14,correct,short,0.5,0.88,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,22,correct,long,0.75,1.6,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,49,correct,short,0.75,0.91,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,51,correct,short,0.75,0.9,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,52,correct,short,0.75,0.87,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,55,correct,short,0.75,0.96,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,56,correct,short,0.75,0.95,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,82,correct,long,0.75,1.59,True,TM,timing_mismatch
+20260609_r0000134_wt_1622,134,90,correct,long,0.5,1.57,True,TM,timing_mismatch
+20260609_r0000135_wt_1644,135,52,correct,long,0.5,1.02,True,TM,timing_mismatch
+20260610_r0000134_wt_1923,134,3,correct,short,0.5,0.87,True,TM,timing_mismatch
+20260610_r0000134_wt_1923,134,63,early,short,0.75,0.33,True,TM,timing_mismatch
+20260610_r0000135_wt_2313,135,15,correct,long,0.5,1.02,True,TM,timing_mismatch
+20260610_r0000135_wt_2313,135,30,early,long,0.5,1.03,True,TM,timing_mismatch
+20260610_r0000135_wt_2313,135,76,early,long,1.0,1.02,True,TM,timing_mismatch
+20260610_r0000135_wt_2313,135,101,early,long,1.0,1.03,True,TM,timing_mismatch
+20260610_r0000135_wt_2313,135,104,early,long,1.0,1.03,True,TM,timing_mismatch
+20260610_r0000135_wt_2313,135,116,early,long,1.0,1.03,True,TM,timing_mismatch
+20260611_r0000135_wt_1415,135,7,early,long,0.5,1.04,True,TM,timing_mismatch
+20260611_r0000135_wt_1415,135,38,early,long,1.0,1.02,True,TM,timing_mismatch
+20260611_r0000135_wt_1415,135,106,early,long,1.0,1.02,True,TM,timing_mismatch
+20260611_r0000135_wt_1415,135,133,early,long,1.0,1.02,True,TM,timing_mismatch
+20260612_r0000135_wt_1444,135,31,early,long,1.0,1.02,True,TM,timing_mismatch
+20260612_r0000135_wt_1444,135,44,early,long,1.0,1.04,True,TM,timing_mismatch
+20260615_r0000134_wt_1825,134,137,early,long,1.0,1.03,True,TM,timing_mismatch
+20260615_r0000135_wt_1902,135,59,correct,long,0.75,1.02,True,TM,timing_mismatch
+20260616_r0000135_wt_1742,135,194,early,long,0.75,1.04,True,TM,timing_mismatch
+20260617_r0000134_wt_1914,134,122,early,long,0.75,1.03,True,TM,timing_mismatch
+20260620_r0000134_wt_1512,134,24,early,long,0.75,1.03,True,TM,timing_mismatch
+20260620_r0000134_wt_1554,134,180,correct,long,0.75,1.02,True,TM,timing_mismatch
+20260620_r0000135_wt_1627,135,70,early,short,0.75,0.33,True,TM,timing_mismatch
+20260620_r0000135_wt_1627,135,116,early,short,0.75,0.32,True,TM,timing_mismatch
+20260620_r0000135_wt_1627,135,147,early,short,0.5,0.34,True,TM,timing_mismatch
+20260621_r0000135_wt_1618,135,22,early,long,0.5,1.02,True,TM,timing_mismatch
+20260621_r0000135_wt_1618,135,58,early,short,0.8,0.33,True,TM,timing_mismatch
+20260622_r0000134_wt_1513,134,108,early,short,0.5,0.34,True,TM,timing_mismatch
+20260622_r0000135_wt_1426,135,9,early,short,0.5,0.33,True,TM,timing_mismatch
+20260622_r0000135_wt_1426,135,131,early,long,0.5,1.03,True,TM,timing_mismatch
+20260623_r0000135_wt_1111,135,18,early,long,0.5,1.02,True,TM,timing_mismatch

@@ -1,0 +1,13 @@
+by,rat,ref,ap,n_sessions,n_flagged,median_dev,pct_flagged,x,y
+electrode position,134,CMR,,9,7,0.3473897341406446,78.0,250.0,465.0
+electrode position,134,CMR,,9,5,0.3042678825052363,56.0,250.0,345.0
+electrode position,134,CMR,,5,5,0.5221117249680114,100.0,282.0,1980.0
+electrode position,135,CMR,,13,4,-0.0075629190829976,31.0,532.0,4980.0
+electrode position,135,CMR,,3,3,0.7997787038025921,100.0,532.0,885.0
+electrode position,135,CMR,,3,3,-0.3795864626651445,100.0,532.0,960.0
+electrode position,135,CMR,,3,3,0.6510055259113622,100.0,782.0,690.0
+electrode position,136,CMR,,8,8,0.42261603734968,100.0,532.0,660.0
+readout channel,134,CMR,AP158,11,8,0.3360445647080927,73.0,,
+readout channel,134,CMR,AP313,11,6,0.3559271646168855,55.0,,
+readout channel,134,CMR,AP94,11,5,0.2915690143182894,45.0,,
+readout channel,136,CMR,AP329,20,8,0.08668679947658015,40.0,,

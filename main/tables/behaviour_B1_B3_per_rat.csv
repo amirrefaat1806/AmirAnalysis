@@ -1,0 +1,13 @@
+check,rat,sessions,median_diff,unit,sessions_higher,p
+B1 Slower after an error?,134,11,54.999999999921556,ms,11/11,0.0009765625
+B1 Slower after an error?,135,27,1.1368683772161603e-10,ms,15/27,0.41391309501497386
+B1 Slower after an error?,136,20,7.500000000034049,ms,13/20,0.43300821232079933
+B1 Slower after an error?,all,58,12.499999999995737,ms,39/58,0.003689270496745152
+B2 More early releases after an error?,134,11,0.22148394241417435,%-points,6/11,0.8310546875
+B2 More early releases after an error?,135,29,-2.593052109181137,%-points,12/29,0.31448761001229286
+B2 More early releases after an error?,136,20,-6.578257084281182,%-points,3/20,0.05316925048828125
+B2 More early releases after an error?,all,60,-2.7184967509179856,%-points,21/60,0.03998660684882879
+B3 Faster press before an early trial?,134,11,-0.23500000000001364,s,5/11,0.7646484375
+B3 Faster press before an early trial?,135,28,0.029999999999944293,s,14/28,0.4117337390780449
+B3 Faster press before an early trial?,136,20,0.044999999999973284,s,11/20,0.7841262817382812
+B3 Faster press before an early trial?,all,59,0.04499999999990223,s,30/59,0.4827030079524325

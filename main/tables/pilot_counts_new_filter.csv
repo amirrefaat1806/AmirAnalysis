@@ -1,0 +1,5 @@
+session,blocks,trials,correct_long,early_long,early_long_hold_gt_0_3,correct_short,early_short,late_long,late_short,press_from_MA
+20260529_r0000136_wt_1318,all blocks,141,49,17,15,48,2,3,22,0
+20260529_r0000136_wt_1318,0.5 blocks only,141,49,17,15,48,2,3,22,0
+20260529_r0000135_wt_1411,all blocks,255,51,77,66,94,6,5,22,9
+20260529_r0000135_wt_1411,0.5 blocks only,255,51,77,66,94,6,5,22,9

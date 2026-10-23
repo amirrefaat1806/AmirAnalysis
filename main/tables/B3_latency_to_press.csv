@@ -1,0 +1,5 @@
+rat,n_sessions,median correct,median early,median diff (b-a),sessions b>a,wilcoxon p
+134,10,8.482,9.0,-0.002,5,0.6953
+135,28,8.29,8.5,0.067,15,0.4515
+136,19,11.875,11.92,0.045,10,0.6507
+all,57,9.28,9.28,0.055,30,0.5433

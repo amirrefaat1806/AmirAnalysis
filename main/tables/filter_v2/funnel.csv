@@ -1,0 +1,8 @@
+step,rule,removed,only_this_rule,trials_left,sessions_left,rat 134,rat 135,rat 136,sessions rat 134,sessions rat 135,sessions rat 136
+start,all trials in the session files,0,0,10194,63,1967,5339,2888,14,29,20
+R1,no press time at all (no TTL and no press_np_s),377,377,9817,63,1936,5101,2780,14,29,20
+R2,"touch (hold < 0.1 s, not a real press)",639,662,9178,63,1840,4810,2528,14,29,20
+R4,"outcome ""other""",31,35,9147,63,1839,4809,2499,14,29,20
+R3,early with hold > 1.05 s,9,9,9138,63,1830,4809,2499,14,29,20
+WT,WT-manipulation session (rat 134),301,317,8837,60,1529,4809,2499,11,29,20
+TM,timing_mismatch,162,207,8675,60,1509,4701,2465,11,29,20

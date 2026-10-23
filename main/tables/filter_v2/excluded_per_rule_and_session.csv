@@ -1,0 +1,146 @@
+step,rule,rat,session,trials,outcomes
+R1,no press time at all (no TTL and no press_np_s),135,20260517_r0000135_wt_1846,217,"late 103, correct 84, early 22, touch 4, other 4"
+R1,no press time at all (no TTL and no press_np_s),136,20260514_r0000136_wt_1317,67,"correct 43, early 14, late 6, touch 4"
+R1,no press time at all (no TTL and no press_np_s),134,20260611_r0000134_wt_1309,28,"correct 23, late 2, touch 2, early 1"
+R1,no press time at all (no TTL and no press_np_s),136,20260511_r0000136_wt_1832,24,"correct 9, late 7, touch 4, early 4"
+R1,no press time at all (no TTL and no press_np_s),135,20260510_r0000135_wt_1625,18,"early 9, touch 7, correct 2"
+R1,no press time at all (no TTL and no press_np_s),136,20260519_r0000136_wt_2031,8,"early 3, correct 3, late 2"
+R1,no press time at all (no TTL and no press_np_s),136,20260511_r0000136_wt_0909,7,"correct 6, late 1"
+R1,no press time at all (no TTL and no press_np_s),136,20260517_r0000136_wt_1557,2,"correct 1, late 1"
+R1,no press time at all (no TTL and no press_np_s),135,20260515_r0000135_wt_1957,1,correct 1
+R1,no press time at all (no TTL and no press_np_s),135,20260527_r0000135_wt_1217,1,early 1
+R1,no press time at all (no TTL and no press_np_s),134,20260615_r0000134_wt_1825,1,correct 1
+R1,no press time at all (no TTL and no press_np_s),134,20260616_r0000134_wt_1653,1,touch 1
+R1,no press time at all (no TTL and no press_np_s),134,20260620_r0000134_wt_1512,1,correct 1
+R1,no press time at all (no TTL and no press_np_s),135,20260622_r0000135_wt_1426,1,touch 1
+R2,"touch (hold < 0.1 s, not a real press)",135,20260510_r0000135_wt_1625,44,touch 44
+R2,"touch (hold < 0.1 s, not a real press)",136,20260528_r0000136_wt_1912,35,touch 35
+R2,"touch (hold < 0.1 s, not a real press)",136,20260519_r0000136_wt_2031,31,touch 31
+R2,"touch (hold < 0.1 s, not a real press)",134,20260610_r0000134_wt_1923,29,touch 29
+R2,"touch (hold < 0.1 s, not a real press)",135,20260522_r0000135_wt_1716,27,touch 27
+R2,"touch (hold < 0.1 s, not a real press)",135,20260524_r0000135_wt_1944,27,touch 27
+R2,"touch (hold < 0.1 s, not a real press)",136,20260510_r0000136_wt_1926,24,touch 24
+R2,"touch (hold < 0.1 s, not a real press)",136,20260522_r0000136_wt_1750,23,touch 23
+R2,"touch (hold < 0.1 s, not a real press)",136,20260529_r0000136_wt_1318,20,touch 20
+R2,"touch (hold < 0.1 s, not a real press)",135,20260521_r0000135_wt_1309,18,touch 18
+R2,"touch (hold < 0.1 s, not a real press)",136,20260524_r0000136_wt_1836,17,touch 17
+R2,"touch (hold < 0.1 s, not a real press)",135,20260610_r0000135_wt_2313,16,touch 16
+R2,"touch (hold < 0.1 s, not a real press)",136,20260521_r0000136_wt_1221,15,touch 15
+R2,"touch (hold < 0.1 s, not a real press)",136,20260523_r0000136_wt_1320,14,touch 14
+R2,"touch (hold < 0.1 s, not a real press)",135,20260602_r0000135_wt_1715,14,touch 14
+R2,"touch (hold < 0.1 s, not a real press)",135,20260515_r0000135_wt_1953,13,touch 13
+R2,"touch (hold < 0.1 s, not a real press)",136,20260517_r0000136_wt_1557,13,touch 13
+R2,"touch (hold < 0.1 s, not a real press)",134,20260609_r0000134_wt_1622,13,touch 13
+R2,"touch (hold < 0.1 s, not a real press)",134,20260615_r0000134_wt_1825,13,touch 13
+R2,"touch (hold < 0.1 s, not a real press)",136,20260520_r0000136_wt_1443,11,touch 11
+R2,"touch (hold < 0.1 s, not a real press)",135,20260523_r0000135_wt_1320,11,touch 11
+R2,"touch (hold < 0.1 s, not a real press)",135,20260611_r0000135_wt_1415,11,touch 11
+R2,"touch (hold < 0.1 s, not a real press)",135,20260616_r0000135_wt_1742,11,touch 11
+R2,"touch (hold < 0.1 s, not a real press)",136,20260527_r0000136_wt_1252,10,touch 10
+R2,"touch (hold < 0.1 s, not a real press)",135,20260515_r0000135_wt_1957,9,touch 9
+R2,"touch (hold < 0.1 s, not a real press)",135,20260525_r0000135_wt_1426,9,touch 9
+R2,"touch (hold < 0.1 s, not a real press)",135,20260620_r0000135_wt_1627,9,touch 9
+R2,"touch (hold < 0.1 s, not a real press)",136,20260512_r0000136_wt_1054,8,touch 8
+R2,"touch (hold < 0.1 s, not a real press)",135,20260528_r0000135_wt_1825,8,touch 8
+R2,"touch (hold < 0.1 s, not a real press)",134,20260611_r0000134_wt_1309,8,touch 8
+R2,"touch (hold < 0.1 s, not a real press)",134,20260620_r0000134_wt_1554,8,touch 8
+R2,"touch (hold < 0.1 s, not a real press)",136,20260511_r0000136_wt_0930,7,touch 7
+R2,"touch (hold < 0.1 s, not a real press)",135,20260624_r0000135_wt_1257,7,touch 7
+R2,"touch (hold < 0.1 s, not a real press)",136,20260511_r0000136_wt_1832,6,touch 6
+R2,"touch (hold < 0.1 s, not a real press)",135,20260527_r0000135_wt_1217,6,touch 6
+R2,"touch (hold < 0.1 s, not a real press)",134,20260612_r0000134_wt_1447,6,touch 6
+R2,"touch (hold < 0.1 s, not a real press)",135,20260615_r0000135_wt_1902,6,touch 6
+R2,"touch (hold < 0.1 s, not a real press)",135,20260621_r0000135_wt_1618,6,touch 6
+R2,"touch (hold < 0.1 s, not a real press)",135,20260622_r0000135_wt_1426,6,touch 6
+R2,"touch (hold < 0.1 s, not a real press)",136,20260515_r0000136_wt_1817,5,touch 5
+R2,"touch (hold < 0.1 s, not a real press)",136,20260525_r0000136_wt_1523,5,touch 5
+R2,"touch (hold < 0.1 s, not a real press)",135,20260609_r0000135_wt_1644,5,touch 5
+R2,"touch (hold < 0.1 s, not a real press)",134,20260617_r0000134_wt_1914,5,touch 5
+R2,"touch (hold < 0.1 s, not a real press)",134,20260622_r0000134_wt_1513,5,touch 5
+R2,"touch (hold < 0.1 s, not a real press)",136,20260526_r0000136_wt_1317,4,touch 4
+R2,"touch (hold < 0.1 s, not a real press)",135,20260529_r0000135_wt_1411,4,touch 4
+R2,"touch (hold < 0.1 s, not a real press)",135,20260612_r0000135_wt_1444,4,touch 4
+R2,"touch (hold < 0.1 s, not a real press)",135,20260623_r0000135_wt_1111,4,touch 4
+R2,"touch (hold < 0.1 s, not a real press)",136,20260511_r0000136_wt_0909,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",135,20260520_r0000135_wt_1357,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",135,20260526_r0000135_wt_1411,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",135,20260603_r0000135_wt_1641,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",135,20260617_r0000135_wt_1944,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",134,20260623_r0000134_wt_1232,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",134,20260625_r0000134_wt_1820,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",135,20260625_r0000135_wt_1846,3,touch 3
+R2,"touch (hold < 0.1 s, not a real press)",134,20260616_r0000134_wt_1653,2,touch 2
+R2,"touch (hold < 0.1 s, not a real press)",136,20260514_r0000136_wt_1317,1,touch 1
+R2,"touch (hold < 0.1 s, not a real press)",135,20260517_r0000135_wt_1846,1,touch 1
+R2,"touch (hold < 0.1 s, not a real press)",134,20260621_r0000134_wt_1533,1,touch 1
+R4,"outcome ""other""",136,20260511_r0000136_wt_1832,4,other 4
+R4,"outcome ""other""",136,20260528_r0000136_wt_1912,4,other 4
+R4,"outcome ""other""",136,20260512_r0000136_wt_1054,3,other 3
+R4,"outcome ""other""",136,20260511_r0000136_wt_0909,2,other 2
+R4,"outcome ""other""",136,20260511_r0000136_wt_0930,2,other 2
+R4,"outcome ""other""",136,20260517_r0000136_wt_1557,2,other 2
+R4,"outcome ""other""",136,20260520_r0000136_wt_1443,2,other 2
+R4,"outcome ""other""",136,20260524_r0000136_wt_1836,2,other 2
+R4,"outcome ""other""",136,20260529_r0000136_wt_1318,2,other 2
+R4,"outcome ""other""",136,20260510_r0000136_wt_1926,1,other 1
+R4,"outcome ""other""",136,20260519_r0000136_wt_2031,1,other 1
+R4,"outcome ""other""",136,20260521_r0000136_wt_1221,1,other 1
+R4,"outcome ""other""",136,20260522_r0000136_wt_1750,1,other 1
+R4,"outcome ""other""",136,20260523_r0000136_wt_1320,1,other 1
+R4,"outcome ""other""",136,20260526_r0000136_wt_1317,1,other 1
+R4,"outcome ""other""",135,20260609_r0000135_wt_1644,1,other 1
+R4,"outcome ""other""",134,20260625_r0000134_wt_1820,1,other 1
+R3,early with hold > 1.05 s,134,20260625_r0000134_wt_1820,8,early 8
+R3,early with hold > 1.05 s,134,20260623_r0000134_wt_1232,1,early 1
+WT,WT-manipulation session (rat 134),134,20260623_r0000134_wt_1232,125,"correct 87, late 24, early 14"
+WT,WT-manipulation session (rat 134),134,20260624_r0000134_wt_1323,102,"correct 74, late 18, early 10"
+WT,WT-manipulation session (rat 134),134,20260625_r0000134_wt_1820,74,"correct 58, early 12, late 4"
+TM,timing_mismatch,135,20260515_r0000135_wt_1953,15,"correct 13, early 2"
+TM,timing_mismatch,134,20260609_r0000134_wt_1622,13,correct 13
+TM,timing_mismatch,135,20260520_r0000135_wt_1357,12,correct 12
+TM,timing_mismatch,135,20260510_r0000135_wt_1625,10,"correct 9, early 1"
+TM,timing_mismatch,135,20260515_r0000135_wt_1957,9,correct 9
+TM,timing_mismatch,135,20260517_r0000135_wt_1846,6,correct 6
+TM,timing_mismatch,135,20260610_r0000135_wt_2313,6,"early 5, correct 1"
+TM,timing_mismatch,136,20260525_r0000136_wt_1523,5,early 5
+TM,timing_mismatch,135,20260527_r0000135_wt_1217,5,"early 3, correct 2"
+TM,timing_mismatch,135,20260603_r0000135_wt_1641,5,"early 4, correct 1"
+TM,timing_mismatch,136,20260515_r0000136_wt_1817,4,"correct 3, early 1"
+TM,timing_mismatch,135,20260522_r0000135_wt_1716,4,"early 3, correct 1"
+TM,timing_mismatch,135,20260526_r0000135_wt_1411,4,early 4
+TM,timing_mismatch,135,20260529_r0000135_wt_1411,4,"early 3, correct 1"
+TM,timing_mismatch,135,20260611_r0000135_wt_1415,4,early 4
+TM,timing_mismatch,136,20260511_r0000136_wt_0909,3,correct 3
+TM,timing_mismatch,136,20260514_r0000136_wt_1317,3,correct 3
+TM,timing_mismatch,135,20260521_r0000135_wt_1309,3,early 3
+TM,timing_mismatch,135,20260602_r0000135_wt_1715,3,early 3
+TM,timing_mismatch,135,20260620_r0000135_wt_1627,3,early 3
+TM,timing_mismatch,136,20260510_r0000136_wt_1926,2,"correct 1, early 1"
+TM,timing_mismatch,136,20260511_r0000136_wt_0930,2,early 2
+TM,timing_mismatch,136,20260519_r0000136_wt_2031,2,early 2
+TM,timing_mismatch,136,20260520_r0000136_wt_1443,2,correct 2
+TM,timing_mismatch,136,20260523_r0000136_wt_1320,2,early 2
+TM,timing_mismatch,135,20260524_r0000135_wt_1944,2,early 2
+TM,timing_mismatch,136,20260524_r0000136_wt_1836,2,early 2
+TM,timing_mismatch,136,20260526_r0000136_wt_1317,2,early 2
+TM,timing_mismatch,134,20260610_r0000134_wt_1923,2,"correct 1, early 1"
+TM,timing_mismatch,135,20260612_r0000135_wt_1444,2,early 2
+TM,timing_mismatch,135,20260621_r0000135_wt_1618,2,early 2
+TM,timing_mismatch,135,20260622_r0000135_wt_1426,2,early 2
+TM,timing_mismatch,136,20260521_r0000136_wt_1221,1,early 1
+TM,timing_mismatch,136,20260522_r0000136_wt_1750,1,early 1
+TM,timing_mismatch,135,20260523_r0000135_wt_1320,1,early 1
+TM,timing_mismatch,135,20260525_r0000135_wt_1426,1,early 1
+TM,timing_mismatch,136,20260527_r0000136_wt_1252,1,early 1
+TM,timing_mismatch,135,20260528_r0000135_wt_1825,1,correct 1
+TM,timing_mismatch,136,20260528_r0000136_wt_1912,1,early 1
+TM,timing_mismatch,136,20260529_r0000136_wt_1318,1,early 1
+TM,timing_mismatch,135,20260609_r0000135_wt_1644,1,correct 1
+TM,timing_mismatch,134,20260615_r0000134_wt_1825,1,early 1
+TM,timing_mismatch,135,20260615_r0000135_wt_1902,1,correct 1
+TM,timing_mismatch,135,20260616_r0000135_wt_1742,1,early 1
+TM,timing_mismatch,134,20260617_r0000134_wt_1914,1,early 1
+TM,timing_mismatch,134,20260620_r0000134_wt_1512,1,early 1
+TM,timing_mismatch,134,20260620_r0000134_wt_1554,1,correct 1
+TM,timing_mismatch,134,20260622_r0000134_wt_1513,1,early 1
+TM,timing_mismatch,135,20260623_r0000135_wt_1111,1,early 1

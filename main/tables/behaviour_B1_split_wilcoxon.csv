@@ -1,0 +1,17 @@
+type,group,previous,sessions_usable,sessions_slower,sessions_faster,sessions_equal,median_diff_ms,p,note
+long,all,after late,28,20,8,0,42.49999999998977,0.00019368529319763184,
+long,134,after late,5,5,0,0,60.00000000011596,0.0625,
+long,135,after late,9,4,5,0,-5.000000000109139,0.8203125,
+long,136,after late,14,11,3,0,44.99999999995907,0.0040283203125,
+long,all,after early,45,32,13,0,10.000000000218279,0.0029865137298070114,
+long,134,after early,7,6,1,0,45.000000000186446,0.03125,
+long,135,after early,24,15,9,0,4.999999999974136,0.28385390237501895,
+long,136,after early,14,11,3,0,24.999999999977263,0.023789604192528985,
+short,all,after late,23,17,4,2,30.00000000020009,0.002095978858140879,
+short,134,after late,4,4,0,0,55.000000000092086,,fewer than 5 sessions with a non-zero difference: not tested
+short,135,after late,10,7,1,2,32.50000000014097,0.0390625,
+short,136,after late,9,6,3,0,14.999999999986358,0.203125,
+short,all,after early,30,14,16,0,-4.9999999999954525,0.4344393623923336,
+short,134,after early,3,1,2,0,-39.99999999990678,,fewer than 5 sessions with a non-zero difference: not tested
+short,135,after early,17,8,9,0,-5.6843418860808015e-11,0.320106280731166,
+short,136,after early,10,5,5,0,7.500000000035811,0.625,

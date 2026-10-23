@@ -1,0 +1,108 @@
+session,channel_id,reason
+20260529_r0000135_wt_1411,imec0.ap#AP362,signal QC: local outlier (power vs neighbours)
+20260529_r0000135_wt_1411,imec0.ap#AP381,signal QC: local outlier (power vs neighbours)
+20260520_r0000135_wt_1357,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260521_r0000135_wt_1309,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260522_r0000135_wt_1716,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260523_r0000135_wt_1320,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260524_r0000135_wt_1944,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260525_r0000135_wt_1426,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260526_r0000135_wt_1411,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260527_r0000135_wt_1217,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260528_r0000135_wt_1825,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260602_r0000135_wt_1715,imec0.ap#AP326,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260602_r0000135_wt_1715,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260603_r0000135_wt_1641,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260609_r0000134_wt_1622,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260609_r0000135_wt_1644,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260610_r0000134_wt_1923,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260610_r0000134_wt_1923,imec0.ap#AP90,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260610_r0000135_wt_2313,imec0.ap#AP326,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260610_r0000135_wt_2313,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260611_r0000134_wt_1309,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260611_r0000134_wt_1309,imec0.ap#AP90,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260611_r0000135_wt_1415,imec0.ap#AP326,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260611_r0000135_wt_1415,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260612_r0000134_wt_1447,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260612_r0000134_wt_1447,imec0.ap#AP90,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260612_r0000135_wt_1444,imec0.ap#AP326,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260612_r0000135_wt_1444,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260615_r0000134_wt_1825,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260615_r0000134_wt_1825,imec0.ap#AP90,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260615_r0000135_wt_1902,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260616_r0000134_wt_1653,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260616_r0000134_wt_1653,imec0.ap#AP90,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260616_r0000135_wt_1742,imec0.ap#AP326,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260616_r0000135_wt_1742,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260617_r0000134_wt_1914,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260617_r0000134_wt_1914,imec0.ap#AP90,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260617_r0000135_wt_1944,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260620_r0000134_wt_1512,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260620_r0000134_wt_1554,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260620_r0000135_wt_1627,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260621_r0000135_wt_1618,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260622_r0000134_wt_1513,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260622_r0000135_wt_1426,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260623_r0000134_wt_1232,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260623_r0000135_wt_1111,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260624_r0000134_wt_1323,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260624_r0000135_wt_1257,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260625_r0000134_wt_1820,imec0.ap#AP63,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260625_r0000135_wt_1846,imec0.ap#AP326,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260625_r0000135_wt_1846,imec0.ap#AP362,unreliable channel of this rat (bad in some sessions in preprocessing; extreme M1 values in 2026-06 sessions)
+20260510_r0000135_wt_1625,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260515_r0000135_wt_1953,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260515_r0000135_wt_1957,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260517_r0000135_wt_1846,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260520_r0000135_wt_1357,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260521_r0000135_wt_1309,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260522_r0000135_wt_1716,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260523_r0000135_wt_1320,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260524_r0000135_wt_1944,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260525_r0000135_wt_1426,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260526_r0000135_wt_1411,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260527_r0000135_wt_1217,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260528_r0000135_wt_1825,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260602_r0000135_wt_1715,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260603_r0000135_wt_1641,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260609_r0000135_wt_1644,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260610_r0000135_wt_2313,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260611_r0000135_wt_1415,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260612_r0000135_wt_1444,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260615_r0000135_wt_1902,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260616_r0000135_wt_1742,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260617_r0000135_wt_1944,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260620_r0000135_wt_1627,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260621_r0000135_wt_1618,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260622_r0000135_wt_1426,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260623_r0000135_wt_1111,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260624_r0000135_wt_1257,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260625_r0000135_wt_1846,imec0.ap#AP381,"event check: same signal ~4 % stronger, ERP 7x after CMR in 22/29 sessions"
+20260609_r0000134_wt_1622,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260610_r0000134_wt_1923,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260611_r0000134_wt_1309,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260612_r0000134_wt_1447,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260615_r0000134_wt_1825,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260616_r0000134_wt_1653,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260617_r0000134_wt_1914,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260620_r0000134_wt_1512,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260620_r0000134_wt_1554,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260621_r0000134_wt_1533,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260622_r0000134_wt_1513,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260623_r0000134_wt_1232,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260624_r0000134_wt_1323,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260625_r0000134_wt_1820,imec0.ap#AP158,"event check: weaker/different signal (r 0.81 with neighbours), ERP 4-6x after CMR"
+20260609_r0000134_wt_1622,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260610_r0000134_wt_1923,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260611_r0000134_wt_1309,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260612_r0000134_wt_1447,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260615_r0000134_wt_1825,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260616_r0000134_wt_1653,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260617_r0000134_wt_1914,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260620_r0000134_wt_1512,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260620_r0000134_wt_1554,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260621_r0000134_wt_1533,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260622_r0000134_wt_1513,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260623_r0000134_wt_1232,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260624_r0000134_wt_1323,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
+20260625_r0000134_wt_1820,imec0.ap#AP313,"QC + check: extra noise (r 0.84 with neighbours), power 3.7x after CMR"
